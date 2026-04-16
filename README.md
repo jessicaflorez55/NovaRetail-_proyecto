@@ -65,3 +65,12 @@ Se identifican posibles relaciones indirectas o mediadas
 → Por ejemplo: publicidad → visitas → compras → ingreso.
 Presencia de posible colinealidad en variables de comportamiento
 → Especialmente en métricas cercanas a la conversión.
+
+▶️ Cómo ejecutar el proyecto
+Opción 1: Desde GitHub
+Abre el repositorio
+Ingresa al notebook .ipynb
+Visualiza el análisis directamente en GitHub
+Opción 2: Ejecutar localmente
+Clona el repositorio:
+git clone https://github.com/jessicaflorez55/sprint7-final-project/blob/main/proyecto_connectaTel.ipynb
