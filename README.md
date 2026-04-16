@@ -73,4 +73,5 @@ Ingresa al notebook .ipynb
 Visualiza el análisis directamente en GitHub
 Opción 2: Ejecutar localmente
 Clona el repositorio:
-git clone https://github.com/jessicaflorez55/sprint7-final-project/blob/main/proyecto_connectaTel.ipynb
+git clone  
+https://github.com/jessicaflorez55/NovaRetail-_proyecto 
